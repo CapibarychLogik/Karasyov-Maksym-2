@@ -1,3 +1,106 @@
-body{
-	background: grey;
+body {
+    font-family: sans-serif;
+    background-color: lightslategray;
+}
+
+header {
+    background-color: whitesmoke;
+    padding: 20px;
+}
+
+header a {
+    color: whitesmoke;
+    background-color: black;
+    font-size: 20px;
+    text-decoration: none;
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 20px;
+}
+
+header img {
+    width: 90px;
+    height: 110px;
+}
+
+main p {
+    font-size: 20px;
+    background-color: whitesmoke;
+    padding: 20px;
+    margin: 25px;
+    border: 3px solid white;
+    border-radius: 15px;
+    text-align: justify;
+}
+
+.qw {
+    height: 200px;
+    width: 200px;
+    border: 5px solid whitesmoke;
+    padding: 1px;
+    margin: 3px;
+    border-radius: 15px;
+}
+
+.qwe {
+    height: 200px;
+    width: 250px;
+    border: 5px solid whitesmoke;
+    padding: 1px;
+    margin: 3px;
+    border-radius: 15px;
+}
+
+.qwrr {
+    height: 200px;
+    width: 250px;
+    border: 5px solid whitesmoke;
+    padding: 1px;
+    margin: 3px;
+    border-radius: 15px;
+}
+
+p .qwrr {
+    text-align: center;
+}
+
+p .qwe {
+    text-align: center;
+}
+
+p .qwrr {
+    text-align: center;
+}
+
+p, img {
+    border: 1px solid whitesmoke;
+    padding: 0px;
+    margin: 0px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.dfg {
+    height: 195px;
+    width: 180px;
+    border: 5px solid whitesmoke;
+    padding: 1px;
+    margin: 3px;
+    border-radius: 15px;
+}
+
+p .dfg{
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    padding: 10px;
+}
+
+footer p {
+    background-color: whitesmoke;
+    padding: 7px;
+    margin: 5px;
 }
