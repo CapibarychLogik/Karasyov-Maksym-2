@@ -19,6 +19,10 @@ header a {
     margin: 20px;
 }
 
+header p {
+    text-align: center;
+}
+
 header img {
     width: 90px;
     height: 110px;
